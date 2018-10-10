@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "first_name": "John",
+      "last_name": "Doe"
+    },
+    {
+      "first_name": "Mickey",
+      "last_name": "Mouse"
+    },
+    {
+      "first_name": "Donald",
+      "last_name": "Trump"
+    }
+  ]
+}
